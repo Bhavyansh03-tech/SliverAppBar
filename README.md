@@ -9,8 +9,8 @@ This Flutter app demonstrates the use of a `SliverAppBar` combined with a `Custo
 - **Sliver Items**: Multiple `SliverToBoxAdapter` items styled with padding, rounded corners, and different colors.
 
 ## Preview
-<img src="https://github.com/user-attachments/assets/fae136a6-39b2-4913-8861-2cc1c82a006f" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
-<img src="https://github.com/user-attachments/assets/e2b3583f-218b-4aa6-8f83-b02f451adf83" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/e2b3583f-218b-4aa6-8f83-b02f451adf83" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/fae136a6-39b2-4913-8861-2cc1c82a006f" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
 <img src="https://github.com/user-attachments/assets/7d50c275-3375-4bb6-8708-0ce717e9029d" alt="Third Screenshot" style="width: 200px; height: auto;">
 
 ## Code Explanation
